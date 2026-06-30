@@ -24,14 +24,4 @@ Each question in a notebook follows the same structure:
 - Python 3
 - Jupyter Notebook or JupyterLab (or any compatible environment, such as VS Code or Google Colab)
 
-## Usage
 
-Clone the repository and open any notebook with Jupyter:
-
-```bash
-git clone https://github.com/vattimanoj/python_programming_assignments.git
-cd python_programming_assignments
-jupyter notebook
-```
-
-Then open the notebook of interest and run the cells in order.
